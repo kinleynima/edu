@@ -1,0 +1,32 @@
+img {
+    width: 30%;
+    height: 30%;
+}
+nav a{
+    display: block;
+    color:red;
+    text-decoration:none;
+    background-color:white;
+    inline-size: 10%;
+}
+nav a:hover{
+    background-color: black;
+}
+a{
+    color:blue;
+}
+h1{
+    font-size: 50px;
+    color: black;
+}
+h2{
+    font-size: 50px;
+    color: black;
+}
+p{
+    font-size: 20px;
+    color: black;
+}
+body {
+    background-image:url("images/images/3_28055936-e85e-48d5-a42e-bea20c837554.webp");
+}

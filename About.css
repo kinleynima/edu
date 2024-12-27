@@ -1,0 +1,17 @@
+nav a:hover{
+    background-color: black;
+}
+a{
+    color:blue;
+}
+h1{
+    font-size: 50px;
+    color: black;
+}
+h2{
+    font-size: 50px;
+    color: black;
+}
+p{
+    font-size: 20px;
+    color: black;
